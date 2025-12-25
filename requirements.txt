@@ -1,0 +1,7 @@
+torch
+tensorflow-cpu
+requests
+tqdm
+tiktoken
+pandas
+matplotlib
