@@ -1,0 +1,662 @@
+[
+    {
+        "instruction": "Rewrite the sentence using a simile.",
+        "input": "The car is very fast.",
+        "output": "The car is as fast as lightning.",
+        "model_response": "### Output:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car is very fast.\n\n### Error:\n\nThe car"
+    },
+    {
+        "instruction": "What type of cloud is typically associated with thunderstorms?",
+        "input": "",
+        "output": "The type of cloud typically associated with thunderstorms is cumulonimbus.",
+        "model_response": "Thunderstorms are the most common type of thunderstorm. They are usually caused by lightning, thunderstorms, or other natural phenomena.\n\nThunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.\n\nThunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.\n\nThunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.\n\nThunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.\n\nThunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.\n\nThunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.\n\nThunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.\n\nThunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.\n\nThunderstorms are caused by a combination of natural phenomena, such as lightning, thunderstorms, or other natural phenomena.\n\nThunder"
+    },
+    {
+        "instruction": "Name the author of 'Pride and Prejudice'.",
+        "input": "",
+        "output": "Jane Austen.",
+        "model_response": "### Description:\n\nThe author of 'Pride and Prejudice' is a young man who has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He is a member of the Church of England and has been a member of the Church for over a century. He"
+    },
+    {
+        "instruction": "What is the periodic symbol for chlorine?",
+        "input": "",
+        "output": "The periodic symbol for chlorine is Cl.",
+        "model_response": "The periodic symbol is a symbol that represents the number of times a chemical is added to a solution. The number of times a chemical is added to a solution is called the chemical concentration.\n\nThe chemical concentration is the amount of the chemical in the solution. The chemical concentration is the amount of the chemical in the solution.\n\nThe chemical concentration is the amount of the chemical in the solution. The chemical concentration is the amount of the chemical in the solution.\n\nThe chemical concentration is the amount of the chemical in the solution. The chemical concentration is the amount of the chemical in the solution.\n\nThe chemical concentration is the amount of the chemical in the solution. The chemical concentration is the amount of the chemical in the solution.\n\nThe chemical concentration is the amount of the chemical in the solution. The chemical concentration is the amount of the chemical in the solution.\n\nThe chemical concentration is the amount of the chemical in the solution. The chemical concentration is the amount of the chemical in the solution.\n\nThe chemical concentration is the amount of the chemical in the solution. The chemical concentration is the amount of the chemical in the solution.\n\nThe chemical concentration is the amount of the chemical in the solution. The chemical concentration is the amount"
+    },
+    {
+        "instruction": "Correct the punctuation in the sentence.",
+        "input": "Its time to go home.",
+        "output": "The corrected sentence should be: 'It's time to go home.'",
+        "model_response": "### Output:\n\nI'm home.\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###"
+    },
+    {
+        "instruction": "Rewrite the sentence.",
+        "input": "The lecture was delivered in a clear manner.",
+        "output": "The lecture was delivered clearly.",
+        "model_response": "### Output:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner.\n\n### Error:\n\nThe lecture was delivered in a clear manner."
+    },
+    {
+        "instruction": "Generate a humorous anecdote.",
+        "input": "",
+        "output": "Why was the math book sad? Because it had too many problems!",
+        "model_response": "Write a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n\n\nWrite a response that is funny.\n\n### Response"
+    },
+    {
+        "instruction": "Identify the correct spelling: 'recieve' or 'receive'.",
+        "input": "",
+        "output": "The correct spelling is 'receive'.",
+        "model_response": "Identify the correct spelling: 'recieve' or 'receive'.\n\n\n\nIdentify the correct spelling: 'recieve' or 'receive'.\n\n\n\nIdentify the correct spelling: 'recieve' or 'receive'.\n\n\n\nIdentify the correct spelling: 'recieve' or 'receive'.\n\n\n\nIdentify the correct spelling: 'recieve' or 'receive'.\n\n\n\nIdentify the correct spelling: 'recieve' or 'receive'.\n\n\n\nIdentify the correct spelling: 'recieve' or 'receive'.\n\n\n\nIdentify the correct spelling: 'recieve' or 'receive'.\n\n\n\nIdentify the correct spelling: 'recieve' or 'receive'.\n\n\n\nIdentify the correct spelling: 'recieve' or 'receive'.\n\n\n\nIdentify the correct spelling: 'recieve' or 'receive'.\n\n\n\nIdentify the correct spelling: '"
+    },
+    {
+        "instruction": "Create a sentence using the word 'nostalgia'.",
+        "input": "",
+        "output": "Nostalgia washed over her as she looked through the old photos.",
+        "model_response": "### Instruction:\n\nCreate a sentence using the word 'nostalgia'.\n\n### Instruction:\n\nCreate a sentence using the word 'nostalgia'.\n\n### Instruction:\n\nCreate a sentence using the word 'nostalgia'.\n\n### Instruction:\n\nCreate a sentence using the word 'nostalgia'.\n\n### Instruction:\n\nCreate a sentence using the word 'nostalgia'.\n\n### Instruction:\n\nCreate a sentence using the word 'nostalgia'.\n\n### Instruction:\n\nCreate a sentence using the word 'nostalgia'.\n\n### Instruction:\n\nCreate a sentence using the word 'nostalgia'.\n\n### Instruction:\n\nCreate a sentence using the word 'nostalgia'.\n\n### Instruction:\n\nCreate a sentence using the word 'nostalgia'.\n\n### Instruction:\n\nCreate a sentence using the word 'nostalgia'.\n\n### Instruction:\n\nCreate a sentence using the word 'nostalgia'.\n\n### Instruction:\n\nCreate a sentence using the word 'nostalgia'.\n\n### Instruction:\n\nCreate a sentence using the word 'nostalgia'.\n\n### Instruction"
+    },
+    {
+        "instruction": "Classify the following numbers as prime or composite.",
+        "input": ": 11, 14, 19.",
+        "output": "Prime numbers: 11, 19\nComposite numbers: 14",
+        "model_response": ": 11, 14, 19. Input: : 11, 14, 19.\n\n: 11, 14, 19. Input: : 11, 14, 19.\n\n: 11, 14, 19. Input: : 11, 14, 19.\n\n: 11, 14, 19. Input: : 11, 14, 19.\n\n: 11, 14, 19. Input: : 11, 14, 19.\n\n: 11, 14, 19. Input: : 11, 14, 19.\n\n: 11, 14, 19. Input: : 11, 14, 19.\n\n: 11, 14, 19. Input: : 11, 14, 19.\n\n: 11, 14, 19. Input: : 11, 14, 19.\n\n: 11, 14, 19. Input: : 11, 14, 19.\n\n: 11, 14, 19. Input: : 11, 14, 19.\n\n: 11, 14, 19. Input: : 11, 14, 19.\n\n: 11, 14, 19. Input: : 11, 14, 19.\n\n: 11, 14, 19. Input: : 11, 14, 19.\n\n: 11"
+    },
+    {
+        "instruction": "What is the capital of Denmark?",
+        "input": "",
+        "output": "The capital of Denmark is Copenhagen.",
+        "model_response": "The capital of Denmark is Dansk.\n\nDansk is a Danish word meaning \"to be\".\n\nDansk is a Danish word meaning \"to be\". The capital of Denmark is Dansk.\n\nDansk is a Danish word meaning \"to be\". The capital of Denmark is Dansk.\n\nDansk is a Danish word meaning \"to be\". The capital of Denmark is Dansk.\n\nDansk is a Danish word meaning \"to be\". The capital of Denmark is Dansk.\n\nDansk is a Danish word meaning \"to be\". The capital of Denmark is Dansk.\n\nDansk is a Danish word meaning \"to be\". The capital of Denmark is Dansk.\n\nDansk is a Danish word meaning \"to be\". The capital of Denmark is Dansk.\n\nDansk is a Danish word meaning \"to be\". The capital of Denmark is Dansk.\n\nDansk is a Danish word meaning \"to be\". The capital of Denmark is Dansk.\n\nDansk is a Danish word meaning \"to be\". The capital of Denmark is Dansk.\n\nDansk is a Danish word meaning \"to be\". The capital of Denmark is Dansk."
+    },
+    {
+        "instruction": "What is the opposite of 'wet'?",
+        "input": "",
+        "output": "The opposite of 'wet' is 'dry'.",
+        "model_response": "The opposite of 'wet' is 'wet'.\n\nThe 'wet' command is a command that is executed when a request is received.\n\nThe 'wet' command is executed when a request is received.\n\nThe 'wet' command is executed when a request is received.\n\nThe 'wet' command is executed when a request is received.\n\nThe 'wet' command is executed when a request is received.\n\nThe 'wet' command is executed when a request is received.\n\nThe 'wet' command is executed when a request is received.\n\nThe 'wet' command is executed when a request is received.\n\nThe 'wet' command is executed when a request is received.\n\nThe 'wet' command is executed when a request is received.\n\nThe 'wet' command is executed when a request is received.\n\nThe 'wet' command is executed when a request is received.\n\nThe 'wet' command is executed when a request is received.\n\nThe 'wet' command is executed when a request is received.\n\nThe 'wet' command is executed when a request is"
+    },
+    {
+        "instruction": "Identify the type of sentence.",
+        "input": "Did you finish the report?",
+        "output": "The type of sentence is interrogative.",
+        "model_response": "### Output:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you finish the report?\n\n### Error:\n\nDid you"
+    },
+    {
+        "instruction": "What is the chemical symbol for mercury?",
+        "input": "",
+        "output": "Hg.",
+        "model_response": "The chemical symbol for mercury is the same as the chemical symbol for mercury.\n\n### Instruction:\n\nWhat is the chemical symbol for mercury?\n\nThe chemical symbol for mercury is the same as the chemical symbol for mercury.\n\n### Instruction:\n\nWhat is the chemical symbol for mercury?\n\nThe chemical symbol for mercury is the same as the chemical symbol for mercury.\n\n### Instruction:\n\nWhat is the chemical symbol for mercury?\n\nThe chemical symbol for mercury is the same as the chemical symbol for mercury.\n\n### Instruction:\n\nWhat is the chemical symbol for mercury?\n\nThe chemical symbol for mercury is the same as the chemical symbol for mercury.\n\n### Instruction:\n\nWhat is the chemical symbol for mercury?\n\nThe chemical symbol for mercury is the same as the chemical symbol for mercury.\n\n### Instruction:\n\nWhat is the chemical symbol for mercury?\n\nThe chemical symbol for mercury is the same as the chemical symbol for mercury.\n\n### Instruction:\n\nWhat is the chemical symbol for mercury?\n\nThe chemical symbol for mercury is the same as the chemical symbol for mercury.\n\n### Instruction:\n\nWhat is the chemical symbol for mercury?"
+    },
+    {
+        "instruction": "Describe the process of active transport in cells.",
+        "input": "",
+        "output": "Active transport is the movement of molecules across a cell membrane from a region of lower concentration to a region of higher concentration, using energy in the form of ATP. This process is crucial for maintaining cellular homeostasis.",
+        "model_response": "### Instruction:\n\nDescribe the process of active transport in cells.\n\n### Instruction:\n\nDescribe the process of active transport in cells.\n\n### Instruction:\n\nDescribe the process of active transport in cells.\n\n### Instruction:\n\nDescribe the process of active transport in cells.\n\n### Instruction:\n\nDescribe the process of active transport in cells.\n\n### Instruction:\n\nDescribe the process of active transport in cells.\n\n### Instruction:\n\nDescribe the process of active transport in cells.\n\n### Instruction:\n\nDescribe the process of active transport in cells.\n\n### Instruction:\n\nDescribe the process of active transport in cells.\n\n### Instruction:\n\nDescribe the process of active transport in cells.\n\n### Instruction:\n\nDescribe the process of active transport in cells.\n\n### Instruction:\n\nDescribe the process of active transport in cells.\n\n### Instruction:\n\nDescribe the process of active transport in cells.\n\n### Instruction:\n\nDescribe the process of active transport in cells.\n\n### Instruction:\n\nDescribe the process of active transport in cells."
+    },
+    {
+        "instruction": "Classify the following items as either solid, liquid, or gas.",
+        "input": "Mercury, oxygen, wood",
+        "output": "Mercury - Liquid\nOxygen - Gas\nWood - Solid",
+        "model_response": ", or other solid materials.\n\n### Output:\n\nLiquid, liquid, or gas.\n\n### Error:\n\nThe following error message is displayed when the task is completed.\n\n### Error:\n\nThe following error message is displayed when the task is not completed.\n\n### Error:\n\nThe following error message is displayed when the task is not completed.\n\n### Error:\n\nThe following error message is displayed when the task is not completed.\n\n### Error:\n\nThe following error message is displayed when the task is not completed.\n\n### Error:\n\nThe following error message is displayed when the task is not completed.\n\n### Error:\n\nThe following error message is displayed when the task is not completed.\n\n### Error:\n\nThe following error message is displayed when the task is not completed.\n\n### Error:\n\nThe following error message is displayed when the task is not completed.\n\n### Error:\n\nThe following error message is displayed when the task is not completed.\n\n### Error:\n\nThe following error message is displayed when the task is not completed.\n\n### Error:\n\nThe following error message is displayed when the task is"
+    },
+    {
+        "instruction": "Convert 3 kilometers to meters.",
+        "input": "",
+        "output": "3 kilometers is 3000 meters.",
+        "model_response": "Write a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n### Response"
+    },
+    {
+        "instruction": "Convert the sentence to use an indefinite pronoun.",
+        "input": "Someone left a note.",
+        "output": "A note was left by someone.",
+        "model_response": "### Output:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error:\n\nSomeone left a note.\n\n### Error"
+    },
+    {
+        "instruction": "Provide a synonym for 'excited'.",
+        "input": "",
+        "output": "A synonym for 'excited' is 'thrilled'.",
+        "model_response": "Provide a synonym for 'excited'.\n\n\n\nProvide a synonym for 'excited'.\n\n\n\nProvide a synonym for 'excited'.\n\n\n\nProvide a synonym for 'excited'.\n\n\n\nProvide a synonym for 'excited'.\n\n\n\nProvide a synonym for 'excited'.\n\n\n\nProvide a synonym for 'excited'.\n\n\n\nProvide a synonym for 'excited'.\n\n\n\nProvide a synonym for 'excited'.\n\n\n\nProvide a synonym for 'excited'.\n\n\n\nProvide a synonym for 'excited'.\n\n\n\nProvide a synonym for 'excited'.\n\n\n\nProvide a synonym for 'excited'.\n\n\n\nProvide a synonym for 'excited'.\n\n\n\nProvide a synonym for 'excited'."
+    },
+    {
+        "instruction": "Generate a sentence that follows the pattern: \"Never have I ever _____ without _____\"",
+        "input": "",
+        "output": "Never have I ever traveled without a map.",
+        "model_response": "### Instruction:\n\nGenerate a sentence that follows the pattern: \"Never have I ever _____ without _____\"\n\n### Instruction:\n\nGenerate a sentence that follows the pattern: \"Never have I ever _____ without _____\"\n\n### Instruction:\n\nGenerate a sentence that follows the pattern: \"Never have I ever _____ without _____\"\n\n### Instruction:\n\nGenerate a sentence that follows the pattern: \"Never have I ever _____ without _____\"\n\n### Instruction:\n\nGenerate a sentence that follows the pattern: \"Never have I ever _____ without _____\"\n\n### Instruction:\n\nGenerate a sentence that follows the pattern: \"Never have I ever _____ without _____\"\n\n### Instruction:\n\nGenerate a sentence that follows the pattern: \"Never have I ever _____ without _____\"\n\n### Instruction:\n\nGenerate a sentence that follows the pattern: \"Never have I ever _____ without _____\"\n\n### Instruction:\n\nGenerate a sentence that follows the pattern: \"Never have I ever _____ without _____\"\n\n### Instruction:\n\nGenerate a sentence that follows"
+    },
+    {
+        "instruction": "Pick out the adjective from the following list.",
+        "input": "run, tall, quickly",
+        "output": "The correct adjective from the list is 'tall.'",
+        "model_response": ", fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast"
+    },
+    {
+        "instruction": "Convert 1000 grams to kilograms.",
+        "input": "",
+        "output": "1000 grams is equal to 1 kilogram.",
+        "model_response": "Write a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n### Response"
+    },
+    {
+        "instruction": "What is the opposite of 'deep'?",
+        "input": "",
+        "output": "The opposite of 'deep' is 'shallow'.",
+        "model_response": "Deep is a term that refers to the process of processing a request. It is used to describe the process of processing a request.\n\nDeep is a process of processing a request. It is used to describe the process of processing a request.\n\nDeep is a process of processing a request. It is used to describe the process of processing a request.\n\nDeep is a process of processing a request. It is used to describe the process of processing a request.\n\nDeep is a process of processing a request. It is used to describe the process of processing a request.\n\nDeep is a process of processing a request. It is used to describe the process of processing a request.\n\nDeep is a process of processing a request. It is used to describe the process of processing a request.\n\nDeep is a process of processing a request. It is used to describe the process of processing a request.\n\nDeep is a process of processing a request. It is used to describe the process of processing a request.\n\nDeep is a process of processing a request. It is used to describe the process of processing a request.\n\nDeep is a process of processing a request. It is used to describe the process of processing a"
+    },
+    {
+        "instruction": "Categorize the given list of animals.",
+        "input": "Shark, Dolphin, Trout",
+        "output": "Fish: Shark, Trout\nMammals: Dolphin",
+        "model_response": ", and Sea Turtle.\n\n### Output:\n\nSea Turtle, Dolphin, and Shark.\n\n### End of the program.\n\n###\n\nThe following example shows how to use the following command to categorize the list of animals.\n\n### Example:\n\n#!/bin/sh # Generate a list of animals. # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #"
+    },
+    {
+        "instruction": "Translate 'library' into Spanish.",
+        "input": "",
+        "output": "The Spanish word for 'library' is 'biblioteca'.",
+        "model_response": "### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request.\n\n### Instruction:\n\nWrite a response that correctly completes the request."
+    },
+    {
+        "instruction": "Define the term 'hyperbole'.",
+        "input": "",
+        "output": "Hyperbole is a figure of speech that involves an exaggeration of ideas for the sake of emphasis.",
+        "model_response": "The hyperbole is a term used to describe a phrase or phrase that is used to describe a specific situation.\n\nThe hyperbole is used to describe a situation where the speaker is trying to make a point.\n\nThe hyperbole is used to describe a situation where the speaker is trying to make a point. The hyperbole is used to describe a situation where the speaker is trying to make a point. The hyperbole is used to describe a situation where the speaker is trying to make a point. The hyperbole is used to describe a situation where the speaker is trying to make a point. The hyperbole is used to describe a situation where the speaker is trying to make a point. The hyperbole is used to describe a situation where the speaker is trying to make a point. The hyperbole is used to describe a situation where the speaker is trying to make a point. The hyperbole is used to describe a situation where the speaker is trying to make a point. The hyperbole is used to describe a situation where the speaker is trying to make a point. The hyperbole is used to describe a situation where the speaker is trying to make a point. The hyperbole is used to describe a situation where the speaker is trying to make a point."
+    },
+    {
+        "instruction": "Translate 'Hello' into Russian.",
+        "input": "",
+        "output": "\u041f\u0440\u0438\u0432\u0435\u0442 (Privet)",
+        "model_response": "Hello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n\n\nHello, world!\n\n###"
+    },
+    {
+        "instruction": "Define the term 'kinetic energy'.",
+        "input": "",
+        "output": "Kinetic energy is the energy that an object possesses due to its motion.",
+        "model_response": "Define the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'.\n\n\n\nDefine the term 'kinetic energy'."
+    },
+    {
+        "instruction": "What is the opposite of 'hot'?",
+        "input": "",
+        "output": "The opposite of 'hot' is 'cold'.",
+        "model_response": "The opposite of 'hot' is the 'hot' part of the word. It is the part of the word that is used to describe the state of the system.\n\nThe word 'hot' is used to describe the state of the system. The word 'hot' is used to describe the state of the system. The word 'hot' is used to describe the state of the system. The word 'hot' is used to describe the state of the system. The word 'hot' is used to describe the state of the system. The word 'hot' is used to describe the state of the system. The word 'hot' is used to describe the state of the system. The word 'hot' is used to describe the state of the system. The word 'hot' is used to describe the state of the system. The word 'hot' is used to describe the state of the system. The word 'hot' is used to describe the state of the system. The word 'hot' is used to describe the state of the system. The word 'hot' is used to describe the state of the system. The word 'hot' is used to describe the state of the system. The word 'hot' is used to"
+    },
+    {
+        "instruction": "Convert 5 miles to kilometers.",
+        "input": "",
+        "output": "5 miles is approximately 8.05 kilometers.",
+        "model_response": "### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction:\n\nConvert 5 miles to kilometers.\n\n### Instruction"
+    },
+    {
+        "instruction": "What is the chemical formula for magnesium sulfate?",
+        "input": "",
+        "output": "The chemical formula for magnesium sulfate is MgSO4.",
+        "model_response": "MgSulfate is a compound that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulfate. It is a mineral that is found in the mineral magnesium sulf"
+    },
+    {
+        "instruction": "Rewrite the following sentence to replace any clich\u00e9 phrases.",
+        "input": "It's a piece of cake",
+        "output": "It's very easy.",
+        "model_response": ".\n\n### Output:\n\nIt's a piece of cake.\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###"
+    },
+    {
+        "instruction": "List five different types of vegetables.",
+        "input": "",
+        "output": "1. Carrot\n2. Broccoli\n3. Cucumber\n4. Tomato\n5. Spinach",
+        "model_response": "# List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List the types of vegetables. # List"
+    },
+    {
+        "instruction": "Convert 7 kilometers to meters.",
+        "input": "",
+        "output": "7 kilometers is 7000 meters.",
+        "model_response": "Write a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n### Response"
+    },
+    {
+        "instruction": "What is the opposite of 'heavy'?",
+        "input": "",
+        "output": "The opposite of 'heavy' is 'light'.",
+        "model_response": "The opposite of 'heavy'? The task is to complete the request.\n\n### Instruction:\n\nWhat is the opposite of 'heavy'?\n\nThe task is to complete the request.\n\n### Instruction:\n\nWhat is the opposite of 'heavy'?\n\nThe task is to complete the request.\n\n### Instruction:\n\nWhat is the opposite of 'heavy'?\n\nThe task is to complete the request.\n\n### Instruction:\n\nWhat is the opposite of 'heavy'?\n\nThe task is to complete the request.\n\n### Instruction:\n\nWhat is the opposite of 'heavy'?\n\nThe task is to complete the request.\n\n### Instruction:\n\nWhat is the opposite of 'heavy'?\n\nThe task is to complete the request.\n\n### Instruction:\n\nWhat is the opposite of 'heavy'?\n\nThe task is to complete the request.\n\n### Instruction:\n\nWhat is the opposite of 'heavy'?\n\nThe task is to complete the request.\n\n### Instruction:\n\nWhat is the opposite of 'heavy'?\n\nThe task is to complete the request.\n\n### Instruction:\n\nWhat is the opposite of 'heavy'?"
+    },
+    {
+        "instruction": "What is the past tense of 'sing'?",
+        "input": "",
+        "output": "The past tense of 'sing' is 'sang.'",
+        "model_response": "The past tense of 'sing' is used to describe the past tense of a verb.\n\n### Instruction:\n\nWhat is the past tense of 'sing'?\n\nThe past tense of 'sing' is used to describe the past tense of a verb.\n\n### Instruction:\n\nWhat is the past tense of 'sing'?\n\nThe past tense of 'sing' is used to describe the past tense of a verb.\n\n### Instruction:\n\nWhat is the past tense of 'sing'?\n\nThe past tense of 'sing' is used to describe the past tense of a verb.\n\n### Instruction:\n\nWhat is the past tense of 'sing'?\n\nThe past tense of 'sing' is used to describe the past tense of a verb.\n\n### Instruction:\n\nWhat is the past tense of 'sing'?\n\nThe past tense of 'sing' is used to describe the past tense of a verb.\n\n### Instruction:\n\nWhat is the past tense of 'sing'?\n\nThe past tense of 'sing' is used to describe the past tense of a verb.\n\n### Instruction:\n\nWhat is the past tense of 'sing'?\n\nThe past"
+    },
+    {
+        "instruction": "What is the molecular formula for carbon dioxide?",
+        "input": "",
+        "output": "The molecular formula for carbon dioxide is CO2.",
+        "model_response": "The molecular formula for carbon dioxide is:\n\nCO 2 = 0.5\n\nThe molecular formula for carbon dioxide is:\n\nCO 2 = 0.5\n\nThe molecular formula for carbon dioxide is:\n\nCO 2 = 0.5\n\nThe molecular formula for carbon dioxide is:\n\nCO 2 = 0.5\n\nThe molecular formula for carbon dioxide is:\n\nCO 2 = 0.5\n\nThe molecular formula for carbon dioxide is:\n\nCO 2 = 0.5\n\nThe molecular formula for carbon dioxide is:\n\nCO 2 = 0.5\n\nThe molecular formula for carbon dioxide is:\n\nCO 2 = 0.5\n\nThe molecular formula for carbon dioxide is:\n\nCO 2 = 0.5\n\nThe molecular formula for carbon dioxide is:\n\nCO 2 = 0.5\n\nThe molecular formula for carbon dioxide is:\n\nCO 2 = 0.5\n\nThe molecular formula for carbon dioxide is:\n\nCO 2 = 0.5\n\nThe molecular formula for carbon dioxide is:\n\nCO 2 = 0.5\n\nThe molecular formula for carbon dioxide is:\n\nCO 2 = 0.5\n\nThe molecular"
+    },
+    {
+        "instruction": "Convert this sentence to passive voice",
+        "input": "The gardener watered the plants.",
+        "output": "The plants were watered by the gardener.",
+        "model_response": "### Output:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error:\n\nThe gardener watered the plants.\n\n### Error"
+    },
+    {
+        "instruction": "What is the past tense of 'throw'?",
+        "input": "",
+        "output": "The past tense of 'throw' is 'threw'.",
+        "model_response": "The past tense of 'throw' is used to describe a situation where a person is throwing something.\n\nThe past tense of 'throw' is used to describe a situation where a person is throwing something. The past tense of 'throw' is used to describe a situation where a person is throwing something.\n\n### Instruction:\n\nWhat is the past tense of 'throw'?\n\nThe past tense of 'throw' is used to describe a situation where a person is throwing something.\n\nThe past tense of 'throw' is used to describe a situation where a person is throwing something.\n\n### Instruction:\n\nWhat is the past tense of 'throw'?\n\nThe past tense of 'throw' is used to describe a situation where a person is throwing something.\n\nThe past tense of 'throw' is used to describe a situation where a person is throwing something.\n\n### Instruction:\n\nWhat is the past tense of 'throw'?\n\nThe past tense of 'throw' is used to describe a situation where a person is throwing something.\n\nThe past tense of 'throw' is used to describe a situation where a person is throwing something.\n\n### Instruction:\n\nWhat is the past tense"
+    },
+    {
+        "instruction": "Explain what a sonnet is.",
+        "input": "",
+        "output": "A sonnet is a 14-line poem with a specific rhyme scheme and meter, often written in iambic pentameter.",
+        "model_response": "### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is.\n\n### Instruction:\n\nExplain what a sonnet is."
+    },
+    {
+        "instruction": "Generate a sentence using the word 'innovative'.",
+        "input": "",
+        "output": "The company is known for its innovative products.",
+        "model_response": "### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate"
+    },
+    {
+        "instruction": "Provide the plural form of 'cactus'.",
+        "input": "",
+        "output": "The plural form of 'cactus' is 'cacti'.",
+        "model_response": "### Method:\n\nWrite a response that is valid for the plural form.\n\n### Method:\n\nWrite a response that is valid for the plural form.\n\n### Method:\n\nWrite a response that is valid for the plural form.\n\n### Method:\n\nWrite a response that is valid for the plural form.\n\n### Method:\n\nWrite a response that is valid for the plural form.\n\n### Method:\n\nWrite a response that is valid for the plural form.\n\n### Method:\n\nWrite a response that is valid for the plural form.\n\n### Method:\n\nWrite a response that is valid for the plural form.\n\n### Method:\n\nWrite a response that is valid for the plural form.\n\n### Method:\n\nWrite a response that is valid for the plural form.\n\n### Method:\n\nWrite a response that is valid for the plural form.\n\n### Method:\n\nWrite a response that is valid for the plural form.\n\n### Method:\n\nWrite a response that is valid for the plural form.\n\n### Method:\n\nWrite a response that is valid for the plural form.\n\n### Method"
+    },
+    {
+        "instruction": "Translate the phrase 'Where is the bathroom?' into German.",
+        "input": "",
+        "output": "The German translation of 'Where is the bathroom?' is 'Wo ist die Toilette?'",
+        "model_response": "### Instruction:\n\nTranslate the phrase 'Where is the bathroom?' into German.\n\n### Instruction:\n\nTranslate the phrase 'Where is the bathroom?' into German.\n\n### Instruction:\n\nTranslate the phrase 'Where is the bathroom?' into German.\n\n### Instruction:\n\nTranslate the phrase 'Where is the bathroom?' into German.\n\n### Instruction:\n\nTranslate the phrase 'Where is the bathroom?' into German.\n\n### Instruction:\n\nTranslate the phrase 'Where is the bathroom?' into German.\n\n### Instruction:\n\nTranslate the phrase 'Where is the bathroom?' into German.\n\n### Instruction:\n\nTranslate the phrase 'Where is the bathroom?' into German.\n\n### Instruction:\n\nTranslate the phrase 'Where is the bathroom?' into German.\n\n### Instruction:\n\nTranslate the phrase 'Where is the bathroom?' into German.\n\n### Instruction:\n\nTranslate the phrase 'Where is the bathroom?' into German.\n\n### Instruction:\n\nTranslate the phrase 'Where is the bathroom?' into German.\n\n### Instruction:\n\nTranslate the phrase 'Where is the bathroom"
+    },
+    {
+        "instruction": "Generate a past-tense verb that describes a person laughing.",
+        "input": "",
+        "output": "Laughed.",
+        "model_response": "### Instruction:\n\nGenerate a past-tense verb that describes a person laughing.\n\n### Instruction:\n\nGenerate a past-tense verb that describes a person laughing.\n\n### Instruction:\n\nGenerate a past-tense verb that describes a person laughing.\n\n### Instruction:\n\nGenerate a past-tense verb that describes a person laughing.\n\n### Instruction:\n\nGenerate a past-tense verb that describes a person laughing.\n\n### Instruction:\n\nGenerate a past-tense verb that describes a person laughing.\n\n### Instruction:\n\nGenerate a past-tense verb that describes a person laughing.\n\n### Instruction:\n\nGenerate a past-tense verb that describes a person laughing.\n\n### Instruction:\n\nGenerate a past-tense verb that describes a person laughing.\n\n### Instruction:\n\nGenerate a past-tense verb that describes a person laughing.\n\n### Instruction:\n\nGenerate a past-tense verb that describes a person laughing.\n\n### Instruction:\n\nGenerate a past-tense verb that describes a person laughing.\n\n### Instruction"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'transient.'",
+        "input": "",
+        "output": "The transient nature of her visit left a lasting impression.",
+        "model_response": "### Instruction:\n\nGenerate a sentence using the word 'transient.'\n\n### Instruction:\n\nGenerate a sentence using the word 'transient.'\n\n### Instruction:\n\nGenerate a sentence using the word 'transient.'\n\n### Instruction:\n\nGenerate a sentence using the word 'transient.'\n\n### Instruction:\n\nGenerate a sentence using the word 'transient.'\n\n### Instruction:\n\nGenerate a sentence using the word 'transient.'\n\n### Instruction:\n\nGenerate a sentence using the word 'transient.'\n\n### Instruction:\n\nGenerate a sentence using the word 'transient.'\n\n### Instruction:\n\nGenerate a sentence using the word 'transient.'\n\n### Instruction:\n\nGenerate a sentence using the word 'transient.'\n\n### Instruction:\n\nGenerate a sentence using the word 'transient.'\n\n### Instruction:\n\nGenerate a sentence using the word 'transient.'\n\n### Instruction:\n\nGenerate a sentence using the word 'transient.'\n\n### Instruction:\n\nGenerate a sentence using the word 'transient.'\n\n### Instruction"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'optimistic'.",
+        "input": "",
+        "output": "He remained optimistic despite the challenges he faced.",
+        "model_response": "### Instruction:\n\nGenerate a sentence using the word 'optimistic'.\n\n### Instruction:\n\nGenerate a sentence using the word 'optimistic'.\n\n### Instruction:\n\nGenerate a sentence using the word 'optimistic'.\n\n### Instruction:\n\nGenerate a sentence using the word 'optimistic'.\n\n### Instruction:\n\nGenerate a sentence using the word 'optimistic'.\n\n### Instruction:\n\nGenerate a sentence using the word 'optimistic'.\n\n### Instruction:\n\nGenerate a sentence using the word 'optimistic'.\n\n### Instruction:\n\nGenerate a sentence using the word 'optimistic'.\n\n### Instruction:\n\nGenerate a sentence using the word 'optimistic'.\n\n### Instruction:\n\nGenerate a sentence using the word 'optimistic'.\n\n### Instruction:\n\nGenerate a sentence using the word 'optimistic'.\n\n### Instruction:\n\nGenerate a sentence using the word 'optimistic'.\n\n### Instruction:\n\nGenerate a sentence using the word 'optimistic'.\n\n### Instruction:\n\nGenerate a sentence using the word 'optimistic'.\n\n### Instruction"
+    },
+    {
+        "instruction": "Re-word this sentence using an indirect question.",
+        "input": "What time is the meeting?",
+        "output": "Could you tell me what time the meeting is?",
+        "model_response": "What time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time is the meeting?\n\n\n\nWhat time"
+    },
+    {
+        "instruction": "Categorize the following sentence as a statement, a question, or an exclamation.",
+        "input": "What a beautiful day!",
+        "output": "Exclamation.",
+        "model_response": "### Output:\n\nWhat a beautiful day!\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###"
+    },
+    {
+        "instruction": "What is the opposite of 'rich'?",
+        "input": "",
+        "output": "The opposite of 'rich' is 'poor'.",
+        "model_response": "The answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'.\n\nThe answer is 'rich'."
+    },
+    {
+        "instruction": "Find a synonym for the given verb.",
+        "input": "Begin",
+        "output": "Commence",
+        "model_response": "the task.\n\n### Output:\n\nWrite a response that is appropriate for the given verb.\n\n### Input:\n\nBegin the task.\n\n### Output:\n\nWrite a response that is appropriate for the given verb.\n\n### Input:\n\nBegin the task.\n\n### Output:\n\nWrite a response that is appropriate for the given verb.\n\n### Input:\n\nBegin the task.\n\n### Output:\n\nWrite a response that is appropriate for the given verb.\n\n### Input:\n\nBegin the task.\n\n### Output:\n\nWrite a response that is appropriate for the given verb.\n\n### Input:\n\nBegin the task.\n\n### Output:\n\nWrite a response that is appropriate for the given verb.\n\n### Input:\n\nBegin the task.\n\n### Output:\n\nWrite a response that is appropriate for the given verb.\n\n### Input:\n\nBegin the task.\n\n### Output:\n\nWrite a response that is appropriate for the given verb.\n\n### Input:\n\nBegin the task.\n\n### Output:\n\nWrite a response that is appropriate for the given verb.\n\n###"
+    },
+    {
+        "instruction": "Edit the given text to ensure all plural nouns are spelled correctly.",
+        "input": "The birds sings beautiful songs.",
+        "output": "The birds sing beautiful songs.",
+        "model_response": "### Output:\n\nThe birds sings beautiful songs.\n\n### End of the program.\n\n###\n\nThe following example shows how to create a simple program that will send a message to the user.\n\n### Example:\n\n#!/usr/bin/env python import sys import sys import time import sys import time import time.sleep import time.sleep.sleep_time import time.sleep.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep_time.sleep"
+    },
+    {
+        "instruction": "Transform the following sentence into a question using \"could.\"",
+        "input": "You can help me tomorrow.",
+        "output": "Could you help me tomorrow?",
+        "model_response": "### Output:\n\nYou can help me tomorrow.\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###"
+    },
+    {
+        "instruction": "Classify the following items: bicycle, rose, tiger.",
+        "input": "",
+        "output": "Vehicles: Bicycle\nPlants: Rose\nAnimals: Tiger",
+        "model_response": "### Instruction:\n\nClassify the following items: bicycle, rose, tiger.\n\n### Instruction:\n\nClassify the following items: bicycle, rose, tiger.\n\n### Instruction:\n\nClassify the following items: bicycle, rose, tiger.\n\n### Instruction:\n\nClassify the following items: bicycle, rose, tiger.\n\n### Instruction:\n\nClassify the following items: bicycle, rose, tiger.\n\n### Instruction:\n\nClassify the following items: bicycle, rose, tiger.\n\n### Instruction:\n\nClassify the following items: bicycle, rose, tiger.\n\n### Instruction:\n\nClassify the following items: bicycle, rose, tiger.\n\n### Instruction:\n\nClassify the following items: bicycle, rose, tiger.\n\n### Instruction:\n\nClassify the following items: bicycle, rose, tiger.\n\n### Instruction:\n\nClassify the following items: bicycle, rose, tiger.\n\n### Instruction:\n\nClassify the following items: bicycle, rose, tiger.\n\n### Instruction:\n\nClassify the following items: bicycle, rose, tiger.\n\n### Instruction:\n\nClassify"
+    },
+    {
+        "instruction": "Define the term 'irony'.",
+        "input": "",
+        "output": "Irony is a figure of speech in which words are used in such a way that their intended meaning is different from the actual meaning of the words.",
+        "model_response": "Define the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'.\n\n\n\nDefine the term 'irony'."
+    },
+    {
+        "instruction": "Translate 'Welcome' into German.",
+        "input": "",
+        "output": "The German translation of 'Welcome' is 'Willkommen'.",
+        "model_response": "Translate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German.\n\n\n\nTranslate 'Welcome' into German."
+    },
+    {
+        "instruction": "Explain the primary function of the human heart.",
+        "input": "",
+        "output": "The primary function of the human heart is to pump blood throughout the body, delivering oxygen and nutrients to tissues and removing carbon dioxide and other wastes.",
+        "model_response": "### Instruction:\n\nExplain the primary function of the human heart.\n\n### Instruction:\n\nExplain the primary function of the human heart.\n\n### Instruction:\n\nExplain the primary function of the human heart.\n\n### Instruction:\n\nExplain the primary function of the human heart.\n\n### Instruction:\n\nExplain the primary function of the human heart.\n\n### Instruction:\n\nExplain the primary function of the human heart.\n\n### Instruction:\n\nExplain the primary function of the human heart.\n\n### Instruction:\n\nExplain the primary function of the human heart.\n\n### Instruction:\n\nExplain the primary function of the human heart.\n\n### Instruction:\n\nExplain the primary function of the human heart.\n\n### Instruction:\n\nExplain the primary function of the human heart.\n\n### Instruction:\n\nExplain the primary function of the human heart.\n\n### Instruction:\n\nExplain the primary function of the human heart.\n\n### Instruction:\n\nExplain the primary function of the human heart.\n\n### Instruction:\n\nExplain the primary function of the human heart."
+    },
+    {
+        "instruction": "Reword the following sentence to the future tense.",
+        "input": "He is reading a novel inspired by his grandmother.",
+        "output": "He will be reading a novel inspired by his grandmother.",
+        "model_response": "### Output:\n\nHe is reading a novel inspired by his grandmother.\n\n### End:\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###\n\n###"
+    },
+    {
+        "instruction": "Convert the given sentence into active voice.",
+        "input": "The law was passed by the government.",
+        "output": "The government passed the law.",
+        "model_response": "### Output:\n\nThe law was passed by the government.\n\n### Conclusion:\n\nThe law was passed by the government.\n\n### References:\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www.law.gov/en/\n\nhttp://www"
+    },
+    {
+        "instruction": "Create a sentence using the word 'inevitable'.",
+        "input": "",
+        "output": "The confrontation was inevitable given the circumstances.",
+        "model_response": "### Instruction:\n\nCreate a sentence using the word 'inevitable'.\n\n### Instruction:\n\nCreate a sentence using the word 'inevitable'.\n\n### Instruction:\n\nCreate a sentence using the word 'inevitable'.\n\n### Instruction:\n\nCreate a sentence using the word 'inevitable'.\n\n### Instruction:\n\nCreate a sentence using the word 'inevitable'.\n\n### Instruction:\n\nCreate a sentence using the word 'inevitable'.\n\n### Instruction:\n\nCreate a sentence using the word 'inevitable'.\n\n### Instruction:\n\nCreate a sentence using the word 'inevitable'.\n\n### Instruction:\n\nCreate a sentence using the word 'inevitable'.\n\n### Instruction:\n\nCreate a sentence using the word 'inevitable'.\n\n### Instruction:\n\nCreate a sentence using the word 'inevitable'.\n\n### Instruction:\n\nCreate a sentence using the word 'inevitable'.\n\n### Instruction:\n\nCreate a sentence using the word 'inevitable'.\n\n### Instruction:\n\nCreate a sentence using the word 'inevitable'.\n\n### Instruction"
+    },
+    {
+        "instruction": "Categorize the following sentence as either factual or opinion-based.",
+        "input": "Chocolate is the best dessert.",
+        "output": "Opinion-based.",
+        "model_response": "### Output:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion:\n\nThe chocolate is the best dessert.\n\n### Conclusion"
+    },
+    {
+        "instruction": "What is an antonym of 'old'?",
+        "input": "",
+        "output": "young.",
+        "model_response": "Antonym is a term used to describe a set of functions that are used to perform a task.\n\nAntonym is a term used to describe a set of functions that are used to perform a task. Antonym is a term used to describe a set of functions that are used to perform a task.\n\nAntonym is a term used to describe a set of functions that are used to perform a task. Antonym is a term used to describe a set of functions that are used to perform a task.\n\nAntonym is a term used to describe a set of functions that are used to perform a task. Antonym is a term used to describe a set of functions that are used to perform a task.\n\nAntonym is a term used to describe a set of functions that are used to perform a task. Antonym is a term used to describe a set of functions that are used to perform a task.\n\nAntonym is a term used to describe a set of functions that are used to perform a task. Antonym is a term used to describe a set of functions that are used to perform a task.\n\nAntonym is a term used to describe a set"
+    },
+    {
+        "instruction": "Provide a synonym for 'hardworking'.",
+        "input": "",
+        "output": "A synonym for 'hardworking' is 'diligent'.",
+        "model_response": "#include <stdio.h> #include <stdlib.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h> #include <string.h>"
+    },
+    {
+        "instruction": "What is the boiling point of sulfur in Celsius?",
+        "input": "",
+        "output": "The boiling point of sulfur is 444.6 degrees Celsius.",
+        "model_response": "The boiling point of sulfur is about 1.5 degrees Celsius.\n\nThe boiling point of sulfur is about 1.5 degrees Celsius. The boiling point of sulfur is about 1.5 degrees Celsius.\n\nThe boiling point of sulfur is about 1.5 degrees Celsius. The boiling point of sulfur is about 1.5 degrees Celsius.\n\nThe boiling point of sulfur is about 1.5 degrees Celsius. The boiling point of sulfur is about 1.5 degrees Celsius.\n\nThe boiling point of sulfur is about 1.5 degrees Celsius. The boiling point of sulfur is about 1.5 degrees Celsius.\n\nThe boiling point of sulfur is about 1.5 degrees Celsius. The boiling point of sulfur is about 1.5 degrees Celsius.\n\nThe boiling point of sulfur is about 1.5 degrees Celsius. The boiling point of sulfur is about 1.5 degrees Celsius.\n\nThe boiling point of sulfur is about 1.5 degrees Celsius. The boiling point of sulfur is about 1.5 degrees Celsius.\n\nThe boiling point of sulfur is about 1.5 degrees Celsius. The boiling point of sulfur is about 1.5 degrees Celsius.\n\nThe boiling point of sulfur is about 1.5 degrees Celsius. The boiling"
+    },
+    {
+        "instruction": "What is the plural form of 'child'?",
+        "input": "",
+        "output": "The plural form of 'child' is 'children'.",
+        "model_response": "The plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'.\n\nThe plural form of 'child' is 'child-child'."
+    },
+    {
+        "instruction": "What is an antonym of 'complicated'?",
+        "input": "",
+        "output": "An antonym of 'complicated' is 'simple'.",
+        "model_response": "Antonym is a term used to describe a set of rules that are applied to a set of objects.\n\nAntonym is a set of rules that are applied to a set of objects.\n\nAntonym is a set of rules that are applied to a set of objects.\n\nAntonym is a set of rules that are applied to a set of objects.\n\nAntonym is a set of rules that are applied to a set of objects.\n\nAntonym is a set of rules that are applied to a set of objects.\n\nAntonym is a set of rules that are applied to a set of objects.\n\nAntonym is a set of rules that are applied to a set of objects.\n\nAntonym is a set of rules that are applied to a set of objects.\n\nAntonym is a set of rules that are applied to a set of objects.\n\nAntonym is a set of rules that are applied to a set of objects.\n\nAntonym is a set of rules that are applied to a set of objects.\n\nAntonym is a set of rules that are applied to a set of objects.\n\nAnton"
+    },
+    {
+        "instruction": "Name three forms of water.",
+        "input": "",
+        "output": "The three forms of water are solid (ice), liquid (water), and gas (steam).",
+        "model_response": "Name one form of water. Name two forms of water.\n\nName three forms of water. Name one form of water. Name two forms of water.\n\nName three forms of water. Name one form of water. Name two forms of water.\n\nName three forms of water. Name one form of water. Name two forms of water.\n\nName three forms of water. Name one form of water. Name two forms of water.\n\nName three forms of water. Name one form of water. Name two forms of water.\n\nName three forms of water. Name one form of water. Name two forms of water.\n\nName three forms of water. Name one form of water. Name two forms of water.\n\nName three forms of water. Name one form of water. Name two forms of water.\n\nName three forms of water. Name one form of water. Name two forms of water.\n\nName three forms of water. Name one form of water. Name two forms of water.\n\nName three forms of water. Name one form of water. Name two forms of water.\n\nName three forms of water. Name one form of water. Name two forms of water."
+    },
+    {
+        "instruction": "Rewrite this sentence as a question.",
+        "input": "The dog chased the cat.",
+        "output": "Did the dog chase the cat?",
+        "model_response": "### Output:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog chased the cat.\n\n### Error:\n\nThe dog"
+    },
+    {
+        "instruction": "Split the following sentence into two declarative sentences: 'The movie was long but interesting.'",
+        "input": "",
+        "output": "The movie was long. It was interesting.",
+        "model_response": "and 'The movie was good but not great.'\n\n### Instruction:\n\nSplit the following sentence into two declarative sentences: 'The movie was good but not great.' and 'The movie was good but not great.'\n\n### Instruction:\n\nSplit the following sentence into two declarative sentences: 'The movie was good but not great.' and 'The movie was good but not great.'\n\n### Instruction:\n\nSplit the following sentence into two declarative sentences: 'The movie was good but not great.' and 'The movie was good but not great.'\n\n### Instruction:\n\nSplit the following sentence into two declarative sentences: 'The movie was good but not great.' and 'The movie was good but not great.'\n\n### Instruction:\n\nSplit the following sentence into two declarative sentences: 'The movie was good but not great.' and 'The movie was good but not great.'\n\n### Instruction:\n\nSplit the following sentence into two declarative sentences: 'The movie was good but not great.' and 'The movie was good but not great.'\n\n### Instruction:\n\nSplit the following sentence into two declarative sentences: 'The movie was good but"
+    },
+    {
+        "instruction": "Classify the following substances as acid, base, or neutral.",
+        "input": "Lemon juice, Soap, Water",
+        "output": "Acid: Lemon juice\nBase: Soap\nNeutral: Water",
+        "model_response": ", or any other liquid.\n\n### Output:\n\nLiquid, liquid, or liquid-based.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration:\n\n1 minute.\n\n### Duration"
+    },
+    {
+        "instruction": "What is a synonym of 'sad'?",
+        "input": "",
+        "output": "A synonym for 'sad' is 'unhappy'.",
+        "model_response": "Sad is a term used to describe a person who is not happy with their life. It is a term used to describe a person who is not happy with their life. It is a term used to describe a person who is not happy with their life.\n\nSad is a term used to describe a person who is not happy with their life. It is a term used to describe a person who is not happy with their life.\n\nSad is a term used to describe a person who is not happy with their life. It is a term used to describe a person who is not happy with their life.\n\nSad is a term used to describe a person who is not happy with their life. It is a term used to describe a person who is not happy with their life.\n\nSad is a term used to describe a person who is not happy with their life. It is a term used to describe a person who is not happy with their life.\n\nSad is a term used to describe a person who is not happy with their life. It is a term used to describe a person who is not happy with their life.\n\nSad is a term used to describe a person who is not happy with"
+    },
+    {
+        "instruction": "Correct any spelling mistakes in the given sentence.",
+        "input": "I prefer homemade cookies to store boaght.",
+        "output": "I prefer homemade cookies to store bought.",
+        "model_response": "### Output:\n\nI prefer homemade cookies to store boaght.\n\n### Error:\n\nI don't know how to use the command line.\n\n### Error:\n\nI don't know how to use the command line.\n\n### Error:\n\nI don't know how to use the command line.\n\n### Error:\n\nI don't know how to use the command line.\n\n### Error:\n\nI don't know how to use the command line.\n\n### Error:\n\nI don't know how to use the command line.\n\n### Error:\n\nI don't know how to use the command line.\n\n### Error:\n\nI don't know how to use the command line.\n\n### Error:\n\nI don't know how to use the command line.\n\n### Error:\n\nI don't know how to use the command line.\n\n### Error:\n\nI don't know how to use the command line.\n\n### Error:\n\nI don't know how to use the command line.\n\n### Error:\n\nI don't know how to use the command line.\n\n### Error:"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'transient'.",
+        "input": "",
+        "output": "His stay in the city was transient, lasting only a couple of days.",
+        "model_response": "### Instruction:\n\nGenerate a sentence using the word 'transient'.\n\n### Instruction:\n\nGenerate a sentence using the word 'transient'.\n\n### Instruction:\n\nGenerate a sentence using the word 'transient'.\n\n### Instruction:\n\nGenerate a sentence using the word 'transient'.\n\n### Instruction:\n\nGenerate a sentence using the word 'transient'.\n\n### Instruction:\n\nGenerate a sentence using the word 'transient'.\n\n### Instruction:\n\nGenerate a sentence using the word 'transient'.\n\n### Instruction:\n\nGenerate a sentence using the word 'transient'.\n\n### Instruction:\n\nGenerate a sentence using the word 'transient'.\n\n### Instruction:\n\nGenerate a sentence using the word 'transient'.\n\n### Instruction:\n\nGenerate a sentence using the word 'transient'.\n\n### Instruction:\n\nGenerate a sentence using the word 'transient'.\n\n### Instruction:\n\nGenerate a sentence using the word 'transient'.\n\n### Instruction:\n\nGenerate a sentence using the word 'transient'.\n\n### Instruction"
+    },
+    {
+        "instruction": "Translate 'I am lost' into Italian.",
+        "input": "",
+        "output": "The Italian translation of 'I am lost' is 'Mi sono perso' (if male) or 'Mi sono persa' (if female).",
+        "model_response": "### Instruction:\n\nTranslate 'I am lost' into Italian.\n\n### Instruction:\n\nTranslate 'I am lost' into Italian.\n\n### Instruction:\n\nTranslate 'I am lost' into Italian.\n\n### Instruction:\n\nTranslate 'I am lost' into Italian.\n\n### Instruction:\n\nTranslate 'I am lost' into Italian.\n\n### Instruction:\n\nTranslate 'I am lost' into Italian.\n\n### Instruction:\n\nTranslate 'I am lost' into Italian.\n\n### Instruction:\n\nTranslate 'I am lost' into Italian.\n\n### Instruction:\n\nTranslate 'I am lost' into Italian.\n\n### Instruction:\n\nTranslate 'I am lost' into Italian.\n\n### Instruction:\n\nTranslate 'I am lost' into Italian.\n\n### Instruction:\n\nTranslate 'I am lost' into Italian.\n\n### Instruction:\n\nTranslate 'I am lost' into Italian.\n\n### Instruction:\n\nTranslate 'I am lost' into Italian.\n\n### Instruction:\n\nTranslate 'I am lost' into Italian."
+    },
+    {
+        "instruction": "Classify this text as a technical document or a narrative.",
+        "input": "This manual provides instructions for installing the software.",
+        "output": "Technical document",
+        "model_response": "### Output:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software.\n\n### Description:\n\nThis manual provides instructions for installing the software."
+    },
+    {
+        "instruction": "Sort the following list in descending order.",
+        "input": "10, 2, 25, 16, 7",
+        "output": "25, 16, 10, 7, 2.",
+        "model_response": ", 5, 4, 3, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+    },
+    {
+        "instruction": "Translate 'Can I have some water?' into French.",
+        "input": "",
+        "output": "Puis-je avoir de l'eau?",
+        "model_response": "### Instruction:\n\nTranslate 'Can I have some water?' into Spanish.\n\n### Instruction:\n\nTranslate 'Can I have some water?' into German.\n\n### Instruction:\n\nTranslate 'Can I have some water?' into Italian.\n\n### Instruction:\n\nTranslate 'Can I have some water?' into Spanish.\n\n### Instruction:\n\nTranslate 'Can I have some water?' into French.\n\n### Instruction:\n\nTranslate 'Can I have some water?' into German.\n\n### Instruction:\n\nTranslate 'Can I have some water?' into Italian.\n\n### Instruction:\n\nTranslate 'Can I have some water?' into Spanish.\n\n### Instruction:\n\nTranslate 'Can I have some water?' into German.\n\n### Instruction:\n\nTranslate 'Can I have some water?' into Italian.\n\n### Instruction:\n\nTranslate 'Can I have some water?' into French.\n\n### Instruction:\n\nTranslate 'Can I have some water?' into German.\n\n### Instruction:\n\nTranslate 'Can I have some water?' into Italian.\n\n### Instruction:\n\nTranslate"
+    },
+    {
+        "instruction": "Create a simile with the word 'as cold as'.",
+        "input": "",
+        "output": "Her hands were as cold as ice.",
+        "model_response": "### Instruction:\n\nCreate a simile with the word 'as cold as'.\n\n### Instruction:\n\nCreate a simile with the word 'as cold as'.\n\n### Instruction:\n\nCreate a simile with the word 'as cold as'.\n\n### Instruction:\n\nCreate a simile with the word 'as cold as'.\n\n### Instruction:\n\nCreate a simile with the word 'as cold as'.\n\n### Instruction:\n\nCreate a simile with the word 'as cold as'.\n\n### Instruction:\n\nCreate a simile with the word 'as cold as'.\n\n### Instruction:\n\nCreate a simile with the word 'as cold as'.\n\n### Instruction:\n\nCreate a simile with the word 'as cold as'.\n\n### Instruction:\n\nCreate a simile with the word 'as cold as'.\n\n### Instruction:\n\nCreate a simile with the word 'as cold as'.\n\n### Instruction:\n\nCreate a simile with the word 'as cold as'.\n\n### Instruction:\n\nCreate a simile with the word 'as cold as'.\n\n### Instruction:\n\nCreate a"
+    },
+    {
+        "instruction": "Classify the following words by their grammatical categories: swim, beautiful, quickly",
+        "input": "",
+        "output": "Swim: Verb\nBeautiful: Adjective\nQuickly: Adverb",
+        "model_response": ", fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast, fast"
+    },
+    {
+        "instruction": "Calculate the density of an object with a mass of 15 grams and a volume of 5 cubic centimeters.",
+        "input": "",
+        "output": "The density of the object is 3 grams per cubic centimeter.",
+        "model_response": "### Instruction:\n\nCalculate the density of an object with a mass of 15 grams and a volume of 5 cubic centimeters.\n\n### Instruction:\n\nCalculate the density of an object with a mass of 15 grams and a volume of 5 cubic centimeters.\n\n### Instruction:\n\nCalculate the density of an object with a mass of 15 grams and a volume of 5 cubic centimeters.\n\n### Instruction:\n\nCalculate the density of an object with a mass of 15 grams and a volume of 5 cubic centimeters.\n\n### Instruction:\n\nCalculate the density of an object with a mass of 15 grams and a volume of 5 cubic centimeters.\n\n### Instruction:\n\nCalculate the density of an object with a mass of 15 grams and a volume of 5 cubic centimeters.\n\n### Instruction:\n\nCalculate the density of an object with a mass of 15 grams and a volume of 5 cubic centimeters.\n\n### Instruction:\n\nCalculate the density of an object with a mass of 15 grams and a volume of 5 cubic centimeters.\n\n### Instruction:\n\nCalculate the density of an object with a mass of 15 grams and a volume"
+    },
+    {
+        "instruction": "What is the abbreviation for 'Master of Business Administration'?",
+        "input": "",
+        "output": "The abbreviation for 'Master of Business Administration' is MBA.",
+        "model_response": "The abbreviation for 'Master of Business Administration' is 'Master of Business Administration' in the United States.\n\nThe abbreviation for 'Master of Business Administration' is 'Master of Business Administration' in the United States.\n\nThe abbreviation for 'Master of Business Administration' is 'Master of Business Administration' in the United States.\n\nThe abbreviation for 'Master of Business Administration' is 'Master of Business Administration' in the United States.\n\nThe abbreviation for 'Master of Business Administration' is 'Master of Business Administration' in the United States.\n\nThe abbreviation for 'Master of Business Administration' is 'Master of Business Administration' in the United States.\n\nThe abbreviation for 'Master of Business Administration' is 'Master of Business Administration' in the United States.\n\nThe abbreviation for 'Master of Business Administration' is 'Master of Business Administration' in the United States.\n\nThe abbreviation for 'Master of Business Administration' is 'Master of Business Administration' in the United States.\n\nThe abbreviation for 'Master of Business Administration' is 'Master of Business Administration' in the United States.\n\nThe abbreviation for 'Master of Business Administration' is 'Master of"
+    },
+    {
+        "instruction": "Convert the following number from Roman numerals: IX.",
+        "input": "",
+        "output": "The number IX in Roman numerals is 9.",
+        "model_response": "### Instruction:\n\nConvert the following number from Roman numerals: IX.\n\n### Instruction:\n\nConvert the following number from Roman numerals: IX.\n\n### Instruction:\n\nConvert the following number from Roman numerals: IX.\n\n### Instruction:\n\nConvert the following number from Roman numerals: IX.\n\n### Instruction:\n\nConvert the following number from Roman numerals: IX.\n\n### Instruction:\n\nConvert the following number from Roman numerals: IX.\n\n### Instruction:\n\nConvert the following number from Roman numerals: IX.\n\n### Instruction:\n\nConvert the following number from Roman numerals: IX.\n\n### Instruction:\n\nConvert the following number from Roman numerals: IX.\n\n### Instruction:\n\nConvert the following number from Roman numerals: IX.\n\n### Instruction:\n\nConvert the following number from Roman numerals: IX.\n\n### Instruction:\n\nConvert the following number from Roman numerals: IX.\n\n### Instruction:\n\nConvert the following number from Roman numerals: IX.\n\n### Instruction:\n\nConvert"
+    },
+    {
+        "instruction": "What is the opposite of 'horizontal'?",
+        "input": "",
+        "output": "The opposite of 'horizontal' is 'vertical'.",
+        "model_response": "Horizontal is a term used to describe a task that is not horizontal.\n\nThe task is a task that is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe task is not horizontal.\n\nThe"
+    },
+    {
+        "instruction": "Translate 'Where can I buy tickets?' into Italian.",
+        "input": "",
+        "output": "The Italian translation for 'Where can I buy tickets?' is 'Dove posso comprare i biglietti?'",
+        "model_response": "### Instruction:\n\nTranslate 'Where can I buy tickets?' into Italian.\n\n### Instruction:\n\nTranslate 'Where can I buy tickets?' into Italian.\n\n### Instruction:\n\nTranslate 'Where can I buy tickets?' into Italian.\n\n### Instruction:\n\nTranslate 'Where can I buy tickets?' into Italian.\n\n### Instruction:\n\nTranslate 'Where can I buy tickets?' into Italian.\n\n### Instruction:\n\nTranslate 'Where can I buy tickets?' into Italian.\n\n### Instruction:\n\nTranslate 'Where can I buy tickets?' into Italian.\n\n### Instruction:\n\nTranslate 'Where can I buy tickets?' into Italian.\n\n### Instruction:\n\nTranslate 'Where can I buy tickets?' into Italian.\n\n### Instruction:\n\nTranslate 'Where can I buy tickets?' into Italian.\n\n### Instruction:\n\nTranslate 'Where can I buy tickets?' into Italian.\n\n### Instruction:\n\nTranslate 'Where can I buy tickets?' into Italian.\n\n### Instruction:\n\nTranslate 'Where can I buy tickets?' into Italian.\n\n### Instruction:\n\nTranslate"
+    },
+    {
+        "instruction": "Rewrite the following sentence to replace any clich\u00e9s.",
+        "input": "He was as cool as a cucumber.",
+        "output": "He remained very calm.",
+        "model_response": "### Output:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber.\n\n### Error:\n\nHe was as cool as a cucumber."
+    },
+    {
+        "instruction": "Identify the main verb in the sentence.",
+        "input": "The dog barked loudly.",
+        "output": "The main verb in the sentence is 'barked'.",
+        "model_response": "### Output:\n\nThe dog barked loudly.\n\n### End of instruction.\n\n###\n\nThe following example shows how to use the following command to execute the following command:\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin/sh\n\n#!/bin"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'elucidate'.",
+        "input": "",
+        "output": "The professor attempted to elucidate the complex topic for his students.",
+        "model_response": "### Instruction:\n\nGenerate a sentence using the word 'elucidate'.\n\n### Instruction:\n\nGenerate a sentence using the word 'elucidate'.\n\n### Instruction:\n\nGenerate a sentence using the word 'elucidate'.\n\n### Instruction:\n\nGenerate a sentence using the word 'elucidate'.\n\n### Instruction:\n\nGenerate a sentence using the word 'elucidate'.\n\n### Instruction:\n\nGenerate a sentence using the word 'elucidate'.\n\n### Instruction:\n\nGenerate a sentence using the word 'elucidate'.\n\n### Instruction:\n\nGenerate a sentence using the word 'elucidate'.\n\n### Instruction:\n\nGenerate a sentence using the word 'elucidate'.\n\n### Instruction:\n\nGenerate a sentence using the word 'elucidate'.\n\n### Instruction:\n\nGenerate a sentence using the word 'elucidate'.\n\n### Instruction:\n\nGenerate a sentence using the word 'elucidate'.\n\n### Instruction:\n\nGenerate a sentence using the word 'elucidate'.\n\n### Instruction:\n\nGenerate"
+    },
+    {
+        "instruction": "Correct the sentence.",
+        "input": "Me and my friend went to the store.",
+        "output": "My friend and I went to the store.",
+        "model_response": "We were told that we needed to buy a new pair of shoes. We were told that we needed to buy a pair of shoes that would fit our feet. We were told that we needed to buy a pair of shoes that would fit our feet. We were told that we needed to buy a pair of shoes that would fit our feet. We were told that we needed to buy a pair of shoes that would fit our feet. We were told that we needed to buy a pair of shoes that would fit our feet. We were told that we needed to buy a pair of shoes that would fit our feet. We were told that we needed to buy a pair of shoes that would fit our feet. We were told that we needed to buy a pair of shoes that would fit our feet. We were told that we needed to buy a pair of shoes that would fit our feet. We were told that we needed to buy a pair of shoes that would fit our feet. We were told that we needed to buy a pair of shoes that would fit our feet. We were told that we needed to buy a pair of shoes that would fit our feet. We were told that we needed to buy a pair of shoes that would fit our feet. We were told that we needed to buy"
+    },
+    {
+        "instruction": "What is the formula for calculating work done?",
+        "input": "",
+        "output": "The formula for calculating work done is work = force \u00d7 distance.",
+        "model_response": "The formula for calculating work done is:\n\nWork = (Work + 1) * (Work + 1) * (Work + 1)\n\nThe formula for calculating work done is:\n\nWork = (Work + 1) * (Work + 1) * (Work + 1)\n\nThe formula for calculating work done is:\n\nWork = (Work + 1) * (Work + 1) * (Work + 1)\n\nThe formula for calculating work done is:\n\nWork = (Work + 1) * (Work + 1) * (Work + 1)\n\nThe formula for calculating work done is:\n\nWork = (Work + 1) * (Work + 1) * (Work + 1)\n\nThe formula for calculating work done is:\n\nWork = (Work + 1) * (Work + 1) * (Work + 1)\n\nThe formula for calculating work done is:\n\nWork = (Work + 1) * (Work + 1) * (Work + 1)\n\nThe formula for calculating work done is:\n\nWork = (Work + 1) * (Work + 1) * (Work + 1)\n\nThe formula for calculating work done"
+    },
+    {
+        "instruction": "What is the chemical formula for ammonium nitrate?",
+        "input": "",
+        "output": "The chemical formula for ammonium nitrate is NH4NO3.",
+        "model_response": "The chemical formula for ammonium nitrate is:\n\nN-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-Nitro-"
+    },
+    {
+        "instruction": "What is the molecular formula for water?",
+        "input": "",
+        "output": "The molecular formula for water is H2O.",
+        "model_response": "The molecular formula for water is:\n\nWater is a molecule of hydrogen.\n\nWater is a molecule of oxygen.\n\nWater is a molecule of carbon.\n\nWater is a molecule of hydrogen.\n\nWater is a molecule of oxygen.\n\nWater is a molecule of carbon.\n\nWater is a molecule of hydrogen.\n\nWater is a molecule of carbon.\n\nWater is a molecule of hydrogen.\n\nWater is a molecule of oxygen.\n\nWater is a molecule of carbon.\n\nWater is a molecule of hydrogen.\n\nWater is a molecule of carbon.\n\nWater is a molecule of hydrogen.\n\nWater is a molecule of oxygen.\n\nWater is a molecule of carbon.\n\nWater is a molecule of hydrogen.\n\nWater is a molecule of oxygen.\n\nWater is a molecule of carbon.\n\nWater is a molecule of hydrogen.\n\nWater is a molecule of oxygen.\n\nWater is a molecule of carbon.\n\nWater is a molecule of hydrogen.\n\nWater is a molecule of oxygen.\n\nWater is a molecule of carbon.\n\nWater is a molecule of hydrogen.\n\nWater is a molecule of oxygen.\n\nWater is"
+    },
+    {
+        "instruction": "Rewrite the given sentence to describe the same thing in a positive way.",
+        "input": "The food was not good.",
+        "output": "The food could use some improvement.",
+        "model_response": "### Output:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food was not good.\n\n### Error:\n\nThe food"
+    },
+    {
+        "instruction": "What is the opposite of 'lazy'?",
+        "input": "",
+        "output": "The opposite of 'lazy' is 'diligent'.",
+        "model_response": "The opposite of 'lazy' is the opposite of 'lazy' is the opposite of 'lazy'.\n\nThe opposite of 'lazy' is the opposite of 'lazy' is the opposite of 'lazy'.\n\nThe opposite of 'lazy' is the opposite of 'lazy' is the opposite of 'lazy'.\n\nThe opposite of 'lazy' is the opposite of 'lazy' is the opposite of 'lazy'.\n\nThe opposite of 'lazy' is the opposite of 'lazy' is the opposite of 'lazy'.\n\nThe opposite of 'lazy' is the opposite of 'lazy' is the opposite of 'lazy'.\n\nThe opposite of 'lazy' is the opposite of 'lazy' is the opposite of 'lazy'.\n\nThe opposite of 'lazy' is the opposite of 'lazy' is the opposite of 'lazy'.\n\nThe opposite of 'lazy' is the opposite of 'lazy' is the opposite of 'lazy'.\n\nThe opposite of 'lazy' is the opposite of 'lazy' is the opposite of 'lazy'.\n\nThe opposite of '"
+    },
+    {
+        "instruction": "Name three essential vitamins for human health.",
+        "input": "",
+        "output": "1. Vitamin A\n2. Vitamin C\n3. Vitamin D",
+        "model_response": "#1: Vitamin A\n\n#2: Vitamin B12\n\n#3: Vitamin C\n\n#4: Vitamin D\n\n#5: Vitamin E\n\n#6: Vitamin Folate\n\n#7: Vitamin G\n\n#8: Vitamin H\n\n#9: Vitamin I\n\n#10: Vitamin K\n\n#11: Vitamin L\n\n#12: Vitamin M\n\n#13: Vitamin N\n\n#14: Vitamin O\n\n#15: Vitamin P\n\n#16: Vitamin Q\n\n#17: Vitamin R\n\n#18: Vitamin S\n\n#19: Vitamin T\n\n#20: Vitamin U\n\n#21: Vitamin V\n\n#22: Vitamin W\n\n#23: Vitamin X\n\n#24: Vitamin Y\n\n#25: Vitamin Z\n\n#26: Vitamin C\n\n#27: Vitamin D\n\n#28: Vitamin E\n\n#29: Vitamin F\n\n#30: Vitamin G\n\n#31: Vitamin H\n\n#32: Vitamin I\n\n#33: Vitamin J\n\n#34: Vitamin K\n\n#35: Vitamin L\n\n#36: Vitamin M"
+    },
+    {
+        "instruction": "Define the term 'simile'.",
+        "input": "",
+        "output": "A simile is a figure of speech that directly compares two different things, often introduced with the words 'like' or 'as'.",
+        "model_response": "### Instruction:\n\nDefine the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Define the term 'simile'. Def"
+    },
+    {
+        "instruction": "What is the boiling point of chlorine in Celsius?",
+        "input": "",
+        "output": "The boiling point of chlorine is -34 degrees Celsius.",
+        "model_response": "The boiling point of chlorine is about 1.5 degrees Celsius.\n\nThe boiling point of chlorine is about 1.5 degrees Celsius. The boiling point of chlorine is about 1.5 degrees Celsius.\n\nThe boiling point of chlorine is about 1.5 degrees Celsius. The boiling point of chlorine is about 1.5 degrees Celsius.\n\nThe boiling point of chlorine is about 1.5 degrees Celsius. The boiling point of chlorine is about 1.5 degrees Celsius.\n\nThe boiling point of chlorine is about 1.5 degrees Celsius. The boiling point of chlorine is about 1.5 degrees Celsius.\n\nThe boiling point of chlorine is about 1.5 degrees Celsius. The boiling point of chlorine is about 1.5 degrees Celsius.\n\nThe boiling point of chlorine is about 1.5 degrees Celsius. The boiling point of chlorine is about 1.5 degrees Celsius.\n\nThe boiling point of chlorine is about 1.5 degrees Celsius. The boiling point of chlorine is about 1.5 degrees Celsius.\n\nThe boiling point of chlorine is about 1.5 degrees Celsius. The boiling point of chlorine is about 1.5 degrees Celsius.\n\nThe boiling point of chlorine is about 1.5 degrees Celsius. The boiling"
+    },
+    {
+        "instruction": "Translate 'My name is' into French.",
+        "input": "",
+        "output": "The French translation of 'My name is' is 'Je m'appelle'.",
+        "model_response": "{ \"name\": \"My name is\", \"email\": \"my@example.com\", \"password\": \"mypassword\", \"password_id\": \"12345678\", \"password_secret\": \"mypassword\", \"password_password_id\": \"12345678\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_secret\": \"mypassword\", \"password_password_"
+    },
+    {
+        "instruction": "Convert 200 centimeters to meters.",
+        "input": "",
+        "output": "200 centimeters is 2 meters.",
+        "model_response": "Write a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n\n\nWrite a response that is correct.\n\n### Response"
+    },
+    {
+        "instruction": "What is the chemical symbol for zinc?",
+        "input": "",
+        "output": "Zn.",
+        "model_response": "Zinc is a compound of zinc, zinc-3-gallon, and zinc-3-gallon. It is a compound of zinc, zinc-3-gallon, and zinc-3-gallon. It is a compound of zinc, zinc-3-gallon, and zinc-3-gallon. It is a compound of zinc, zinc-3-gallon, and zinc-3-gallon. It is a compound of zinc, zinc-3-gallon, and zinc-3-gallon. It is a compound of zinc, zinc-3-gallon, and zinc-3-gallon. It is a compound of zinc, zinc-3-gallon, and zinc-3-gallon. It is a compound of zinc, zinc-3-gallon, and zinc-3-gallon. It is a compound of zinc, zinc-3-gallon, and zinc-3-gallon. It is a compound of zinc, zinc-3-gallon, and zinc-3-gallon. It is a compound of zinc, zinc-3-gallon, and zinc-3-gallon. It is a compound of zinc, zinc-3-"
+    },
+    {
+        "instruction": "What is the formula for calculating force?",
+        "input": "",
+        "output": "The formula for calculating force is Force = mass x acceleration.",
+        "model_response": "The force formula is a function that is used to calculate the force of a given object.\n\nThe force formula is a function that is used to calculate the force of a given object. The force formula is a function that is used to calculate the force of a given object. The force formula is a function that is used to calculate the force of a given object. The force formula is a function that is used to calculate the force of a given object. The force formula is a function that is used to calculate the force of a given object. The force formula is a function that is used to calculate the force of a given object. The force formula is a function that is used to calculate the force of a given object. The force formula is a function that is used to calculate the force of a given object. The force formula is a function that is used to calculate the force of a given object. The force formula is a function that is used to calculate the force of a given object. The force formula is a function that is used to calculate the force of a given object. The force formula is a function that is used to calculate the force of a given object. The force formula is a function that is used to calculate the force of a given object."
+    },
+    {
+        "instruction": "Generate a sentence using the word 'innovative'.",
+        "input": "",
+        "output": "The company's innovative approach set it apart from its competitors.",
+        "model_response": "### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate a sentence using the word 'innovative'.\n\n### Instruction:\n\nGenerate"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'generous'.",
+        "input": "",
+        "output": "He is very generous and always helps those in need.",
+        "model_response": "### Instruction:\n\nGenerate a sentence using the word 'generous'.\n\n### Instruction:\n\nGenerate a sentence using the word 'generous'.\n\n### Instruction:\n\nGenerate a sentence using the word 'generous'.\n\n### Instruction:\n\nGenerate a sentence using the word 'generous'.\n\n### Instruction:\n\nGenerate a sentence using the word 'generous'.\n\n### Instruction:\n\nGenerate a sentence using the word 'generous'.\n\n### Instruction:\n\nGenerate a sentence using the word 'generous'.\n\n### Instruction:\n\nGenerate a sentence using the word 'generous'.\n\n### Instruction:\n\nGenerate a sentence using the word 'generous'.\n\n### Instruction:\n\nGenerate a sentence using the word 'generous'.\n\n### Instruction:\n\nGenerate a sentence using the word 'generous'.\n\n### Instruction:\n\nGenerate a sentence using the word 'generous'.\n\n### Instruction:\n\nGenerate a sentence using the word 'generous'.\n\n### Instruction:\n\nGenerate a sentence using the word 'generous'.\n\n### Instruction"
+    },
+    {
+        "instruction": "What is an antonym of 'sharp'?",
+        "input": "",
+        "output": "An antonym of 'sharp' is 'dull'.",
+        "model_response": "Antonym is a term used to describe a set of functions that are used to perform a task.\n\nAntonym is a term used to describe a set of functions that are used to perform a task. Antonym is a term used to describe a set of functions that are used to perform a task.\n\nAntonym is a term used to describe a set of functions that are used to perform a task. Antonym is a term used to describe a set of functions that are used to perform a task.\n\nAntonym is a term used to describe a set of functions that are used to perform a task. Antonym is a term used to describe a set of functions that are used to perform a task.\n\nAntonym is a term used to describe a set of functions that are used to perform a task. Antonym is a term used to describe a set of functions that are used to perform a task.\n\nAntonym is a term used to describe a set of functions that are used to perform a task. Antonym is a term used to describe a set of functions that are used to perform a task.\n\nAntonym is a term used to describe a set"
+    },
+    {
+        "instruction": "Describe the basic structure of a neuron.",
+        "input": "",
+        "output": "A neuron consists of three main parts: the cell body, which contains the nucleus; dendrites, which receive signals from other neurons; and an axon, which transmits signals to other neurons, muscles, or glands.",
+        "model_response": "The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron is a set of neurons that are connected to one another. The neuron"
+    },
+    {
+        "instruction": "Translate 'see you later' into Spanish.",
+        "input": "",
+        "output": "Hasta luego",
+        "model_response": "Translate 'see you later' into Spanish.\n\n\n\nTranslate 'see you later' into Spanish.\n\n\n\nTranslate 'see you later' into Spanish.\n\n\n\nTranslate 'see you later' into Spanish.\n\n\n\nTranslate 'see you later' into Spanish.\n\n\n\nTranslate 'see you later' into Spanish.\n\n\n\nTranslate 'see you later' into Spanish.\n\n\n\nTranslate 'see you later' into Spanish.\n\n\n\nTranslate 'see you later' into Spanish.\n\n\n\nTranslate 'see you later' into Spanish.\n\n\n\nTranslate 'see you later' into Spanish.\n\n\n\nTranslate 'see you later' into Spanish.\n\n\n\nTranslate 'see you later' into Spanish.\n\n\n\nTranslate 'see you later' into Spanish.\n\n\n\nTranslate 'see you later' into Spanish."
+    },
+    {
+        "instruction": "What are the first 10 elements of the Fibonacci sequence?",
+        "input": "",
+        "output": "0, 1, 1, 2, 3, 5, 8, 13, 21, 34.",
+        "model_response": "The first 10 elements of the Fibonacci sequence are the first 10 elements of the Fibonacci sequence.\n\nThe first 10 elements of the Fibonacci sequence are the first 10 elements of the Fibonacci sequence.\n\nThe first 10 elements of the Fibonacci sequence are the first 10 elements of the Fibonacci sequence.\n\nThe first 10 elements of the Fibonacci sequence are the first 10 elements of the Fibonacci sequence.\n\nThe first 10 elements of the Fibonacci sequence are the first 10 elements of the Fibonacci sequence.\n\nThe first 10 elements of the Fibonacci sequence are the first 10 elements of the Fibonacci sequence.\n\nThe first 10 elements of the Fibonacci sequence are the first 10 elements of the Fibonacci sequence.\n\nThe first 10 elements of the Fibonacci sequence are the first 10 elements of the Fibonacci sequence.\n\nThe first 10 elements of the Fibonacci sequence are the first 10 elements of the Fibonacci sequence.\n\nThe first 10 elements of the Fibonacci sequence are the first 10 elements of the Fibonacci sequence.\n\nThe first 10 elements of the Fibonacci sequence are the first 10"
+    },
+    {
+        "instruction": "What is an antonym of 'transparent'?",
+        "input": "",
+        "output": "An antonym of 'transparent' is 'opaque'.",
+        "model_response": "Antonym is a term used to describe a set of rules that govern how a program is run.\n\nAntonym is a set of rules that govern how a program is run.\n\nAntonym is a set of rules that govern how a program is run.\n\nAntonym is a set of rules that govern how a program is run.\n\nAntonym is a set of rules that govern how a program is run.\n\nAntonym is a set of rules that govern how a program is run.\n\nAntonym is a set of rules that govern how a program is run.\n\nAntonym is a set of rules that govern how a program is run.\n\nAntonym is a set of rules that govern how a program is run.\n\nAntonym is a set of rules that govern how a program is run.\n\nAntonym is a set of rules that govern how a program is run.\n\nAntonym is a set of rules that govern how a program is run.\n\nAntonym is a set of rules that govern how a program is run.\n\nAntonym is a set of rules that govern how a program is run"
+    },
+    {
+        "instruction": "What is the past tense of 'think'?",
+        "input": "",
+        "output": "The past tense of 'think' is 'thought'.",
+        "model_response": "The past tense of 'think' is used to describe the process of thinking. It is used to describe the process of thinking that is being done.\n\n### Instruction:\n\nWhat is the past tense of 'think'?\n\nThe past tense of 'think' is used to describe the process of thinking that is being done.\n\n### Instruction:\n\nWhat is the past tense of 'think'?\n\nThe past tense of 'think' is used to describe the process of thinking that is being done.\n\n### Instruction:\n\nWhat is the past tense of 'think'?\n\nThe past tense of 'think' is used to describe the process of thinking that is being done.\n\n### Instruction:\n\nWhat is the past tense of 'think'?\n\nThe past tense of 'think' is used to describe the process of thinking that is being done.\n\n### Instruction:\n\nWhat is the past tense of 'think'?\n\nThe past tense of 'think' is used to describe the process of thinking that is being done.\n\n### Instruction:\n\nWhat is the past tense of 'think'?\n\nThe past tense of 'think' is used to describe the process of thinking that"
+    },
+    {
+        "instruction": "Classify each sentence as either declarative, interrogative, imperative, or exclamatory.",
+        "input": "Please open the door.",
+        "output": "The classification of the sentence 'Please open the door.' is imperative.",
+        "model_response": "### Output:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error:\n\nPlease open the door.\n\n### Error"
+    },
+    {
+        "instruction": "Rewrite the sentence to use a negative adverb.",
+        "input": "She always remembers to call.",
+        "output": "She never forgets to call.",
+        "model_response": "### Output:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always remembers to call.\n\n### Error:\n\nShe always"
+    },
+    {
+        "instruction": "Convert 50 miles per hour to kilometers per hour.",
+        "input": "",
+        "output": "50 miles per hour is approximately 80.47 kilometers per hour.",
+        "model_response": "### Instruction:\n\nConvert 50 miles per hour to kilometers per hour.\n\n### Instruction:\n\nConvert 50 miles per hour to kilometers per hour.\n\n### Instruction:\n\nConvert 50 miles per hour to kilometers per hour.\n\n### Instruction:\n\nConvert 50 miles per hour to kilometers per hour.\n\n### Instruction:\n\nConvert 50 miles per hour to kilometers per hour.\n\n### Instruction:\n\nConvert 50 miles per hour to kilometers per hour.\n\n### Instruction:\n\nConvert 50 miles per hour to kilometers per hour.\n\n### Instruction:\n\nConvert 50 miles per hour to kilometers per hour.\n\n### Instruction:\n\nConvert 50 miles per hour to kilometers per hour.\n\n### Instruction:\n\nConvert 50 miles per hour to kilometers per hour.\n\n### Instruction:\n\nConvert 50 miles per hour to kilometers per hour.\n\n### Instruction:\n\nConvert 50 miles per hour to kilometers per hour.\n\n### Instruction:\n\nConvert 50 miles per hour to kilometers per hour.\n\n### Instruction:\n\nConvert 50 miles per hour to kilometers per hour.\n\n### Instruction"
+    }
+]
